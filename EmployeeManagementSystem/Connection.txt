@@ -1,0 +1,1 @@
+server=ASUS-TUF-F15\MLAIMSSQL;database=EmployeeDB;user=sa;password=SQL_Access01
