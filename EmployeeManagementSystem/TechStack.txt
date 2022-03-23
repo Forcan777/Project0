@@ -1,0 +1,10 @@
+TechStack for the project
+
+
+C#
+SQL
+Microsoft SQL Server 2019
+ADO.NET
+
+Visual Studio Code
+Microsoft SQL Server Management Studio
